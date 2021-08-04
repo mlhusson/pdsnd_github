@@ -7,7 +7,7 @@
 Bike Share Information
 
 ### Description
-Describe what your project is about and what it does
+This project allows the user to interact with bike share data from 3 different US cities: Chicago, New York City, and Washington. Based on user selections, various statistics will be displayed.
 
 ### Files used
 Include the files used
