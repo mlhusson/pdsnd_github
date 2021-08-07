@@ -7,7 +7,7 @@
 Bike Share Information
 
 ### Description
-This project allows the user to interact with bike share data from 3 different US cities: Chicago, New York City, and Washington. Based on user selections, various statistics will be displayed.
+This project allows the user to interact with bike share data from 3 different US cities: Chicago, New York City, and Washington. Based on user selections, various statistics will be displayed. Some statistics include the most frequent times of travel, popular stations and trips, trip durations and user information.
 
 ### Files used
 bikeshare.py
