@@ -16,4 +16,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to Richard Kalehoff for teaching me all of the git commands and Juno Lee for teaching me the Python coding needed to complete this project.
